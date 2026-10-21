@@ -1,0 +1,10 @@
+{
+  "name": "ha-doorbell-talk",
+  "version": "1.0.0",
+  "description": "Live view and two-way audio for a doorbell camera, as a Home Assistant dashboard card",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test && sh test/install.test.sh"
+  }
+}
